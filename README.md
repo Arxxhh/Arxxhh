@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A Cyber Security Researcher from India</h3>
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/280476541/83269600-c87e-11ea-8ff8-573ed1ab5fe8">
-
+<!--<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/280476541/83269600-c87e-11ea-8ff8-573ed1ab5fe8">
+-->
 
 - 🌱 I’m currently doing *Penetration Testing*
 
-- 👯 I’m looking to collaborate on *Web Penetration Project*
+- 👯 Ready to collaborate on *Web Penetration Project*
 
-- 📝 I regularly write articles on [https://medium.com/@kumarmanav705](https://medium.com/@kumarmanav705)
+<!--- 📝 I regularly write articles on [https://medium.com/@kumarmanav705](https://medium.com/@kumarmanav705) -->
 
 - 💬 Ask me about *Web Application Penetration Testing* & *Ethical Hacking*
 
